@@ -20,3 +20,4 @@ News feed list Bulgaria
 - [Toratora.gr](https://toratora.gr) - [Feed](https://toratora.gr/feed)
 - [Sportlike.gr](https://sportlike.gr) - [Feed](https://sportlike.gr/feed)
 - [Noizeradio.gr](https://noizeradio.gr) - [Feed](https://noizeradio.gr/feed)
+- [Mediterrawines.gr](https://mediterrawines.gr) - [Feed](https://mediterrawines.gr/feed/)
